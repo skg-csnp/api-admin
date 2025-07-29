@@ -1,0 +1,5 @@
+packages:
+  - "src/**"
+  - "shared/**"
+  - "migrations/**"
+  - "tests/**"
