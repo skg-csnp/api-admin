@@ -1,0 +1,4 @@
+# Assign default reviewers per folder/module
+/docs/          @docwriter
+/src/api/       @backendlead @seniorapi
+/src/web/       @frontendlead
